@@ -1,0 +1,22 @@
+{
+  "PromotionsList": [
+    {
+      "PromotionID": 1,
+      "ProductInfo": { "A": 3 },
+      "PromoPrice": 130.0
+    },
+    {
+      "PromotionID": 2,
+      "ProductInfo": { "B": 2 },
+      "PromoPrice": 45.0
+    },
+    {
+      "PromotionID": 3,
+      "ProductInfo": {
+        "C": 1,
+        "D": 1
+      },
+      "PromoPrice": 30.0
+    }
+  ]
+}
